@@ -4,5 +4,4 @@
 2. Могу взломать смартфон, поставить кастомную прошивку или распилить заводскую. (Хобби)
 
 
-swift.jpeg/swift
 ![swift](https://user-images.githubusercontent.com/112849355/204877857-36f2a0b3-2627-44e7-b9a8-5e717fcbb6fa.jpeg)
